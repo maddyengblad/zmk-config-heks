@@ -25,8 +25,6 @@
 / {
 
 
-    
-behaviors {};
 keymap {
         compatible = "zmk,keymap";
 
